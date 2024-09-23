@@ -1,5 +1,5 @@
 {
-  "name": "password-generator",
+  "name": "@loildj190087/password-generator",
   "version": "0.0.1",
   "description": "Simple password generator",
   "main": "index.js",
@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Julian Loidl",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loidlj190087/password-generator.git"
+  }
 }
